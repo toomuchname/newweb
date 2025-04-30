@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     let currentSlide = 0;
     let slideInterval;
-    const slideDuration = 4000; // 4秒切换一次
+    const slideDuration = 5000; // 5秒切换一次
 
     // 平滑滚动函数
     function scrollToSection(sectionId) {
